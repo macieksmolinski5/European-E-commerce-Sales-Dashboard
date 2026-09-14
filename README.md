@@ -4,7 +4,6 @@
 This project analyzes transactional e-commerce data to identify top-performing export products and map out revenue distribution across the European market. The goal was to transform raw sales data into a clear, interactive business dashboard.
 
 ![Dashboard Preview](dashboard_preview.png)
-*(Upewnij się, że Twój zrzut ekranu nazywa się dashboard_preview.png i leży w tym samym folderze)*
 
 ## 🛠️ Tools & Technologies
 * **Database & Querying:** SQLite, SQL
